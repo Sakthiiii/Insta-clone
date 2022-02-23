@@ -5,7 +5,7 @@ import AuthenticationContext from "../contexts/auth/Auth.context";
 import { LOGOUT } from "../contexts/types";
 import Axios from "axios";
 
-// Material-UI Components
+
 import List from "@material-ui/core/List";
 import ListItem from "@material-ui/core/ListItem";
 import Divider from "@material-ui/core/Divider";

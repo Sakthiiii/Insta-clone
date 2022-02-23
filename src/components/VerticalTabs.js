@@ -1,6 +1,5 @@
 import React from "react";
 import PropTypes from "prop-types";
-// eslint-disable-next-line no-unused-vars
 import { makeStyles, withStyles } from "@material-ui/core/styles";
 import Tabs from "@material-ui/core/Tabs";
 import Tab from "@material-ui/core/Tab";

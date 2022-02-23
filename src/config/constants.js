@@ -1,5 +1,4 @@
-// This is the config used in order to send
-// our token with Axios requests
+
 export const config = (jwt) => {
 	return {
 		headers: {
